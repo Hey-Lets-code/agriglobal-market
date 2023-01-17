@@ -10,4 +10,4 @@
 
  
 
-| É importante estar atento aos pequenos detalhes dos textos ou desenho das fichas dos produtos, é algo que valorizamos muito na nossa equipe.
+* É importante estar atento aos pequenos detalhes dos textos ou desenho das fichas dos produtos, é algo que valorizamos muito na nossa equipe.*
