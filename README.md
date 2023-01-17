@@ -1,8 +1,5 @@
 # As atividades a desenvolver são as seguintes:
 
-       Cancel changes
-
-
 1- Recrie os menus de produtos, categorias e web design em geral de acordo com a página de exemplo (URL EXEMPLO**)
 
 2- Recrie o Header (não é necessário que os botões executem ações)
